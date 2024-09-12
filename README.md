@@ -17,4 +17,4 @@
 <img src="https://a11ybadges.com/badge?logo=looker"/>
 
 ## Github Stats
-<img src="https://github-readme-stats.vercel.app/api?username=isaamib&show_icons=true&theme=default"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isaamib&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api?username=isaamib&show_icons=true&theme=default"/>
