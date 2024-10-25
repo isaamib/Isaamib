@@ -1,6 +1,6 @@
 # Hello World
 
-👋 Olá! Sou apaixonada por tecnologia e estou sempre em busca de novas oportunidades para desenvolver projetos que ampliem meu aprendizado e conhecimento. Atualmente, estou me aprofundando em diversas linguagens de programação, como HTML, JavaScript, Java, Python, CSS, MySQL e Golang. Meu foco principal é me especializar na área de dados e também back-end, transformando informações em insights valiosos. Vamos criar algo incrível juntos!
+👋 Olá! Sou apaixonada por tecnologia e estou sempre em busca de novas oportunidades para desenvolver projetos que ampliem meu aprendizado e conhecimento. Atualmente, busco aprender e desenvolver em diversas linguagens de programação, Java, Python e Golang. Meu foco principal é me especializar na área de dados e também back-end, transformando informações em insights valiosos. Vamos criar algo incrível juntos!
 
 ## Vamos nos conectar!
 <a href="https://www.linkedin.com/in/isabela-menezes-9189b4206/">
