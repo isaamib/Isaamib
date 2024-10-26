@@ -11,6 +11,9 @@
 <img src="https://a11ybadges.com/badge?logo=html5"/><img src="https://a11ybadges.com/badge?logo=javascript"/>
 <img src="https://a11ybadges.com/badge?logo=css3"/>
 <img src="https://a11ybadges.com/badge?logo=cplusplus"/>
+<img src="https://a11ybadges.com/badge?logo=csharp"/>
+<img src="https://a11ybadges.com/badge?logo=java"/>
+<img src="https://a11ybadges.com/badge?logo=dotnet"/>
 <img src="https://a11ybadges.com/badge?logo=python"/>
 <img src="https://a11ybadges.com/badge?logo=go"/>
 <img src="https://a11ybadges.com/badge?logo=powerbi"/>
