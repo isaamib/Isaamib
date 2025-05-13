@@ -1,6 +1,6 @@
 # Hello World 🇺🇸
 
-Hi! I'm a professional passionate about technology and committed to continuous learning. Currently, I'm focused on developing myself as a Full Stack Developer, with an emphasis on both back-end and front-end. I have been dedicating myself to studying Java, Node.js, Python, React, and JavaScript, always aiming to improve my skills to build efficient solutions.
+Hi! I'm a professional passionate about technology and committed to continuous learning. Currently, I'm focused on developing myself as a Full Stack Developer, with an emphasis on both back-end and front-end. I have been dedicating myself to studying Java, Python, React, and JavaScript, always aiming to improve my skills to build efficient solutions.
 
 In addition, I'm deepening my knowledge in the areas of security and digital identity, with a focus on identity management, secure access control, and IT governance. I’ve been learning to plan and implement robust solutions for authentication and authorization, using tools like Azure Active Directory and other Microsoft platforms, ensuring that the solutions are secure and scalable.
 
@@ -16,7 +16,7 @@ I'm always looking for new challenges and opportunities to grow. Let’s create 
 
 # Hello World 🇧🇷
 
-Olá! Sou uma profissional apaixonada por tecnologia e comprometida com o aprendizado contínuo. Atualmente, estou focada em me desenvolver como Full Stack Developer, com ênfase tanto no back-end quanto no front-end. Tenho me dedicado ao estudo de Java, Node.js, Python, React e JavaScript, buscando sempre aprimorar minhas habilidades para construir soluções eficientes.
+Olá! Sou uma profissional apaixonada por tecnologia e comprometida com o aprendizado contínuo. Atualmente, estou focada em me desenvolver como Full Stack Developer, com ênfase tanto no back-end quanto no front-end. Tenho me dedicado ao estudo de Java, Python, React e JavaScript, buscando sempre aprimorar minhas habilidades para construir soluções eficientes.
 
 Além disso, estou aprofundando meu conhecimento nas áreas de segurança e identidade digital, com ênfase em gestão de identidades, controle de acesso seguro e governança de TI. Tenho aprendido a planejar e implementar soluções robustas para autenticação e autorização, utilizando ferramentas como Azure Active Directory e outras plataformas Microsoft, garantindo que as soluções sejam seguras e escaláveis.
 
